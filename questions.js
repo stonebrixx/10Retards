@@ -1,6 +1,15 @@
 questions = [
     {
-        "question": "Niggers by corporations is more of a concern than oppression by governments.",
+        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Wage Labor is theft.",
         "effect": {
             "econ": 10,
             "dipl": 0,
