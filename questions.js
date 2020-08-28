@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "Incest should be legalized.",
+        "question": "Incest should be legal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
